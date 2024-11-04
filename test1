@@ -1,0 +1,7 @@
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(tibble)
+library(forcats) #working with categorical variables
+library(lubridate) #working with dates
+ d
