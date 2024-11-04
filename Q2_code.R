@@ -19,7 +19,6 @@ Year <- data |> pull(Year)
 Health_sat <- data |> pull(Health_sat)
 
 
-
 data <- data %>%
   mutate(
     Birth_year = Year - Age,  # Calculates the year of birth
